@@ -2,7 +2,7 @@ import time
 
 from pages.main_page import MainPage
 from pages.first_step_page import FirstStepPage
-from pages.second_stage_page import SecondStepPage
+from pages.second_step_page import SecondStepPage
 from pages.third_step_page import ThirdStepPage
 from pages.fourth_step_page import FourthStepPage
 
